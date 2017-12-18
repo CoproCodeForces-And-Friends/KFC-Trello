@@ -1,0 +1,10 @@
+C:\Users\Маринка\RiderProjects\KFCTrello\KFCTrello\obj\Debug\netcoreapp2.0\KFCTrello.csproj.CoreCompileInputs.cache
+C:\Users\Маринка\RiderProjects\KFCTrello\KFCTrello\obj\Debug\netcoreapp2.0\KFCTrello.AssemblyInfoInputs.cache
+C:\Users\Маринка\RiderProjects\KFCTrello\KFCTrello\obj\Debug\netcoreapp2.0\KFCTrello.AssemblyInfo.cs
+C:\Users\Маринка\RiderProjects\KFCTrello\KFCTrello\bin\Debug\netcoreapp2.0\KFCTrello.deps.json
+C:\Users\Маринка\RiderProjects\KFCTrello\KFCTrello\bin\Debug\netcoreapp2.0\KFCTrello.runtimeconfig.json
+C:\Users\Маринка\RiderProjects\KFCTrello\KFCTrello\bin\Debug\netcoreapp2.0\KFCTrello.runtimeconfig.dev.json
+C:\Users\Маринка\RiderProjects\KFCTrello\KFCTrello\bin\Debug\netcoreapp2.0\KFCTrello.dll
+C:\Users\Маринка\RiderProjects\KFCTrello\KFCTrello\bin\Debug\netcoreapp2.0\KFCTrello.pdb
+C:\Users\Маринка\RiderProjects\KFCTrello\KFCTrello\obj\Debug\netcoreapp2.0\KFCTrello.dll
+C:\Users\Маринка\RiderProjects\KFCTrello\KFCTrello\obj\Debug\netcoreapp2.0\KFCTrello.pdb

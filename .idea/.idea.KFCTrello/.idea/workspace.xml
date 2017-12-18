@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="87354dc6-1945-464f-95b1-7388f28a997b" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="WebhookContoller.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/KFCTrello/Controllers/WebhookContoller.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="42" lean-forward="false" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+              <folding>
+                <marker date="1513637800605" expanded="true" signature="6:85" ph="..." />
+                <marker date="1513637800605" expanded="true" signature="118:575" ph="{...}" />
+                <marker date="1513637800605" expanded="true" signature="201:573" ph="{...}" />
+                <marker date="1513637800605" expanded="true" signature="288:372" ph="{...}" />
+                <marker date="1513637800605" expanded="true" signature="485:567" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StorageSaveModel.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/KFCTrello/Models/StorageSaveModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+              <folding>
+                <marker date="1513638087183" expanded="true" signature="41:744" ph="{...}" />
+                <marker date="1513638087183" expanded="true" signature="77:603" ph="{...}" />
+                <marker date="1513638087183" expanded="true" signature="634:742" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WebhookModel.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/KFCTrello/Models/WebhookModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+              <folding>
+                <marker date="1513633501456" expanded="true" signature="41:1138" ph="{...}" />
+                <marker date="1513633501456" expanded="true" signature="73:128" ph="{...}" />
+                <marker date="1513633501456" expanded="true" signature="153:439" ph="{...}" />
+                <marker date="1513633501456" expanded="true" signature="462:595" ph="{...}" />
+                <marker date="1513633501456" expanded="true" signature="619:711" ph="{...}" />
+                <marker date="1513633501456" expanded="true" signature="734:867" ph="{...}" />
+                <marker date="1513633501456" expanded="true" signature="903:1136" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WebhookHelper.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/KFCTrello/WebhookHelper.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+              <folding>
+                <marker date="1513638206324" expanded="true" signature="6:86" ph="..." />
+                <marker date="1513638206324" expanded="true" signature="107:720" ph="{...}" />
+                <marker date="1513638206324" expanded="true" signature="147:718" ph="{...}" />
+                <marker date="1513638206324" expanded="true" signature="459:563" ph="{...}" />
+                <marker date="1513638206324" expanded="true" signature="639:712" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TrelloAdapter.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/KFCTrello/Adapters/TrelloAdapter.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="166">
+              <caret line="21" column="98" lean-forward="false" selection-start-line="21" selection-start-column="98" selection-end-line="21" selection-end-column="98" />
+              <folding>
+                <marker date="1513636657096" expanded="true" signature="6:163" ph="..." />
+                <marker date="1513636657096" expanded="true" signature="184:1323" ph="{...}" />
+                <marker date="1513636657096" expanded="true" signature="217:1321" ph="{...}" />
+                <marker date="1513636657096" expanded="true" signature="457:707" ph="{...}" />
+                <marker date="1513636657096" expanded="true" signature="521:696" ph="{...}" />
+                <marker date="1513636657096" expanded="true" signature="787:1315" ph="{...}" />
+                <marker date="1513636657096" expanded="true" signature="813:1172" ph="{...}" />
+                <marker date="1513636657096" expanded="true" signature="1079:1158" ph="{...}" />
+                <marker date="1513636657096" expanded="true" signature="1204:1305" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WebhookTokenRegister.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/KFCTrello/Models/WebhookTokenRegister.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="37" lean-forward="false" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+              <folding>
+                <marker date="1513637540901" expanded="true" signature="50:735" ph="{...}" />
+                <marker date="1513637540901" expanded="true" signature="90:733" ph="{...}" />
+                <marker date="1513637540901" expanded="true" signature="134:375" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KFCServiceAdapter.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/KFCTrello/Adapters/KFCServiceAdapter.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="43" column="47" lean-forward="false" selection-start-line="43" selection-start-column="47" selection-end-line="43" selection-end-column="47" />
+              <folding>
+                <marker date="1513638718459" expanded="false" signature="6:202" ph="..." />
+                <marker date="1513638718459" expanded="true" signature="223:2303" ph="{...}" />
+                <marker date="1513638718459" expanded="true" signature="260:2301" ph="{...}" />
+                <marker date="1513638718459" expanded="true" signature="440:690" ph="{...}" />
+                <marker date="1513638718459" expanded="true" signature="504:679" ph="{...}" />
+                <marker date="1513638718459" expanded="true" signature="750:1689" ph="{...}" />
+                <marker date="1513638718459" expanded="true" signature="826:1627" ph="{...}" />
+                <marker date="1513638718459" expanded="true" signature="1286:1516" ph="{...}" />
+                <marker date="1513638718459" expanded="true" signature="1347:1498" ph="{...}" />
+                <marker date="1513638718459" expanded="true" signature="1767:2294" ph="{...}" />
+                <marker date="1513638718459" expanded="true" signature="1793:2151" ph="{...}" />
+                <marker date="1513638718459" expanded="true" signature="2058:2137" ph="{...}" />
+                <marker date="1513638718459" expanded="true" signature="2183:2284" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/KFCTrello/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+              <folding>
+                <marker date="1513621020474" expanded="true" signature="6:255" ph="..." />
+                <marker date="1513621020474" expanded="true" signature="276:597" ph="{...}" />
+                <marker date="1513621020474" expanded="true" signature="303:595" ph="{...}" />
+                <marker date="1513621020474" expanded="true" signature="356:414" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="appsettings.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/KFCTrello/appsettings.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1513620806825" expanded="true" signature="15:207" ph="{...}" />
+                <marker date="1513620806825" expanded="true" signature="78:116" ph="{...}" />
+                <marker date="1513620806825" expanded="true" signature="159:197" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="appsettings.Development.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/KFCTrello/appsettings.Development.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1513620806818" expanded="true" signature="15:162" ph="{...}" />
+                <marker date="1513620806818" expanded="true" signature="61:158" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>localhost</find>
+      <find>values</find>
+      <find>Values</find>
+      <find>Values</find>
+      <find>Controller</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/KFCTrello/Controllers/WebhookContoller.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KFCTrello/Adapters/TrelloAdapter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KFCTrello/WebhookHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KFCTrello/Models/WebhookModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KFCTrello/obj/Debug/netcoreapp2.0/KFCTrello.AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KFCTrello/Adapters/KFCServiceAdapter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KFCTrello/Models/WebhookTokenRegister.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KFCTrello/Models/StorageSaveModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KFCTrello/appsettings.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KFCTrello/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KFCTrello/appsettings.Development.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/KFCTrello/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/KFCTrello/Controllers/WebhookConstoller.cs" />
+        <option value="$PROJECT_DIR$/KFCTrello/Controllers/ValuesController.cs" />
+        <option value="$PROJECT_DIR$/KFCTrello/Models/WebhookModel.cs" />
+        <option value="$PROJECT_DIR$/KFCTrello/KFCServiceAdapter.cs" />
+        <option value="$PROJECT_DIR$/KFCTrello/TrelloAdapter.cs" />
+        <option value="$PROJECT_DIR$/KFCTrello/Adapters/TrelloAdapter.cs" />
+        <option value="$PROJECT_DIR$/KFCTrello/Models/WebhookTokenRegister.cs" />
+        <option value="$PROJECT_DIR$/KFCTrello/Models/StorageSaveModel.cs" />
+        <option value="$PROJECT_DIR$/KFCTrello/Controllers/WebhookContoller.cs" />
+        <option value="$PROJECT_DIR$/KFCTrello/WebhookHelper.cs" />
+        <option value="$PROJECT_DIR$/KFCTrello/Adapters/KFCServiceAdapter.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="KFCTrello (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="KFCTrello (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="KFCTrello" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="KFCTrello (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="KFCTrello" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Adapters" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="KFCTrello (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="KFCTrello" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Controllers" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="KFCTrello (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="KFCTrello" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Models" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="RiderNuGetCacheManager.AutoClear.global-packages" value="2" />
+    <property name="RiderNuGetCacheManager.AutoClear.http-cache" value="2" />
+    <property name="RiderNuGetCacheManager.AutoClear.packages-cache" value="2" />
+    <property name="RiderNuGetCacheManager.AutoClear.temp" value="1" />
+    <property name="settings.editor.selected.configurable" value="RiderNuGetOptionsPageId" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/KFCTrello/bin/Debug/netcoreapp2.0/KFCTrello.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/KFCTrello" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/KFCTrello/KFCTrello.csproj" />
+      <option name="PROJECT_OUTPUT_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+      <browser url="http://localhost:5000" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87354dc6-1945-464f-95b1-7388f28a997b" name="Default" comment="" />
+      <created>1513620876044</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1513620876044</updated>
+      <workItem from="1513620902822" duration="13830000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="13830000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979852" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979852" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18229167" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979852" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979852" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3997879" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/KFCTrello/Controllers/WebhookContoller.cs</url>
+          <line>20</line>
+          <properties documentPath="$PROJECT_DIR$/KFCTrello/Controllers/WebhookContoller.cs">
+            <startOffsets>
+              <startOffset value="494" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="495" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/KFCTrello/Controllers/WebhookContoller.cs</url>
+          <line>12</line>
+          <properties documentPath="$PROJECT_DIR$/KFCTrello/Controllers/WebhookContoller.cs">
+            <startOffsets>
+              <startOffset value="297" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="298" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/KFCTrello/Adapters/TrelloAdapter.cs</url>
+          <line>26</line>
+          <properties documentPath="$PROJECT_DIR$/KFCTrello/Adapters/TrelloAdapter.cs">
+            <startOffsets>
+              <startOffset value="796" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="797" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="5" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/KFCTrello/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="66" lean-forward="false" selection-start-line="23" selection-start-column="66" selection-end-line="23" selection-end-column="66" />
+          <folding>
+            <marker date="1513621020487" expanded="true" signature="6:330" ph="..." />
+            <marker date="1513621020487" expanded="true" signature="351:1131" ph="{...}" />
+            <marker date="1513621020487" expanded="true" signature="378:1129" ph="{...}" />
+            <marker date="1513621020487" expanded="true" signature="437:500" ph="{...}" />
+            <marker date="1513621020487" expanded="true" signature="723:774" ph="{...}" />
+            <marker date="1513621020487" expanded="true" signature="962:1123" ph="{...}" />
+            <marker date="1513621020487" expanded="true" signature="1009:1086" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KFCTrello/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1513620806825" expanded="true" signature="15:207" ph="{...}" />
+            <marker date="1513620806825" expanded="true" signature="78:116" ph="{...}" />
+            <marker date="1513620806825" expanded="true" signature="159:197" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KFCTrello/appsettings.Development.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1513620806818" expanded="true" signature="15:162" ph="{...}" />
+            <marker date="1513620806818" expanded="true" signature="61:158" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KFCTrello/Controllers/ValuesController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KFCTrello/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+          <folding>
+            <marker date="1513621020474" expanded="true" signature="6:255" ph="..." />
+            <marker date="1513621020474" expanded="true" signature="276:597" ph="{...}" />
+            <marker date="1513621020474" expanded="true" signature="303:595" ph="{...}" />
+            <marker date="1513621020474" expanded="true" signature="356:414" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KFCTrello/Adapters/TrelloAdapter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="21" column="98" lean-forward="false" selection-start-line="21" selection-start-column="98" selection-end-line="21" selection-end-column="98" />
+          <folding>
+            <marker date="1513636657096" expanded="true" signature="6:163" ph="..." />
+            <marker date="1513636657096" expanded="true" signature="184:1323" ph="{...}" />
+            <marker date="1513636657096" expanded="true" signature="217:1321" ph="{...}" />
+            <marker date="1513636657096" expanded="true" signature="457:707" ph="{...}" />
+            <marker date="1513636657096" expanded="true" signature="521:696" ph="{...}" />
+            <marker date="1513636657096" expanded="true" signature="787:1315" ph="{...}" />
+            <marker date="1513636657096" expanded="true" signature="813:1172" ph="{...}" />
+            <marker date="1513636657096" expanded="true" signature="1079:1158" ph="{...}" />
+            <marker date="1513636657096" expanded="true" signature="1204:1305" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KFCTrello/Controllers/WebhookContoller.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="42" lean-forward="false" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+          <folding>
+            <marker date="1513637800605" expanded="true" signature="6:85" ph="..." />
+            <marker date="1513637800605" expanded="true" signature="118:575" ph="{...}" />
+            <marker date="1513637800605" expanded="true" signature="201:573" ph="{...}" />
+            <marker date="1513637800605" expanded="true" signature="288:372" ph="{...}" />
+            <marker date="1513637800605" expanded="true" signature="485:567" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KFCTrello/WebhookHelper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding>
+            <marker date="1513638206324" expanded="true" signature="6:86" ph="..." />
+            <marker date="1513638206324" expanded="true" signature="107:720" ph="{...}" />
+            <marker date="1513638206324" expanded="true" signature="147:718" ph="{...}" />
+            <marker date="1513638206324" expanded="true" signature="459:563" ph="{...}" />
+            <marker date="1513638206324" expanded="true" signature="639:712" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KFCTrello/Models/WebhookTokenRegister.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="37" lean-forward="false" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+          <folding>
+            <marker date="1513637540901" expanded="true" signature="50:735" ph="{...}" />
+            <marker date="1513637540901" expanded="true" signature="90:733" ph="{...}" />
+            <marker date="1513637540901" expanded="true" signature="134:375" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KFCTrello/Models/StorageSaveModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <marker date="1513638087183" expanded="true" signature="41:744" ph="{...}" />
+            <marker date="1513638087183" expanded="true" signature="77:603" ph="{...}" />
+            <marker date="1513638087183" expanded="true" signature="634:742" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KFCTrello/Models/WebhookModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <marker date="1513633501456" expanded="true" signature="41:1138" ph="{...}" />
+            <marker date="1513633501456" expanded="true" signature="73:128" ph="{...}" />
+            <marker date="1513633501456" expanded="true" signature="153:439" ph="{...}" />
+            <marker date="1513633501456" expanded="true" signature="462:595" ph="{...}" />
+            <marker date="1513633501456" expanded="true" signature="619:711" ph="{...}" />
+            <marker date="1513633501456" expanded="true" signature="734:867" ph="{...}" />
+            <marker date="1513633501456" expanded="true" signature="903:1136" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/KFCTrello/Adapters/KFCServiceAdapter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="43" column="47" lean-forward="false" selection-start-line="43" selection-start-column="47" selection-end-line="43" selection-end-column="47" />
+          <folding>
+            <marker date="1513638718459" expanded="false" signature="6:202" ph="..." />
+            <marker date="1513638718459" expanded="true" signature="223:2303" ph="{...}" />
+            <marker date="1513638718459" expanded="true" signature="260:2301" ph="{...}" />
+            <marker date="1513638718459" expanded="true" signature="440:690" ph="{...}" />
+            <marker date="1513638718459" expanded="true" signature="504:679" ph="{...}" />
+            <marker date="1513638718459" expanded="true" signature="750:1689" ph="{...}" />
+            <marker date="1513638718459" expanded="true" signature="826:1627" ph="{...}" />
+            <marker date="1513638718459" expanded="true" signature="1286:1516" ph="{...}" />
+            <marker date="1513638718459" expanded="true" signature="1347:1498" ph="{...}" />
+            <marker date="1513638718459" expanded="true" signature="1767:2294" ph="{...}" />
+            <marker date="1513638718459" expanded="true" signature="1793:2151" ph="{...}" />
+            <marker date="1513638718459" expanded="true" signature="2058:2137" ph="{...}" />
+            <marker date="1513638718459" expanded="true" signature="2183:2284" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

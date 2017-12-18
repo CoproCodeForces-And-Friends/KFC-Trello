@@ -1,0 +1,41 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\Маринка\\RiderProjects\\KFCTrello\\KFCTrello\\KFCTrello.csproj",
+    "projectName": "KFCTrello",
+    "projectPath": "C:\\Users\\Маринка\\RiderProjects\\KFCTrello\\KFCTrello\\KFCTrello.csproj",
+    "outputPath": "C:\\Users\\Маринка\\RiderProjects\\KFCTrello\\KFCTrello\\obj\\",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {}
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "target": "Package",
+          "version": "2.0"
+        },
+        "Microsoft.AspNetCore.All": {
+          "target": "Package",
+          "version": "2.0.3"
+        },
+        "Newtonsoft.Json": {
+          "target": "Package",
+          "version": "11.0.1-beta1"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
