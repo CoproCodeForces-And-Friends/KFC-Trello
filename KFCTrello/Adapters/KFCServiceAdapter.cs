@@ -26,7 +26,13 @@ namespace KFCTrello
 
         public async Task SendToStorage(WebhookModel hook)
         {
-            var storageHook = new StorageSaveModel()
+            var storageHook = CreateStorageSaveModel(hook);
+            await SendTrelloWebhoock(storageHook);
+        }
+
+        public StorageSaveModel CreateStorageSaveModel(WebhookModel hook)
+        {
+            return new StorageSaveModel()
             {
                 Id = hook.Action.Id,
                 Name = hook.Action.Data.Board.Name,
@@ -34,7 +40,7 @@ namespace KFCTrello
                 Status = "Ok",
                 CreatorId = hook.Action.IdMemberCreator,
                 DeveloperId = hook.Action.MemberCreator.FullName,
-                Labels = new[] {"I", "want", "to", "sleep"},
+                Labels = new[] { "I", "want", "to", "sleep" },
                 ProjectId = hook.Action.Id,
                 RelatedIssue = new[]
                 {
@@ -47,9 +53,8 @@ namespace KFCTrello
                 CreationDate = hook.Action.Date,
                 UpdatedDate = hook.Action.Date
             };
-            await SendTrelloWebhoock(storageHook);
         }
-        
+
         private async Task SendTrelloWebhoock(StorageSaveModel hook)
         {
             try

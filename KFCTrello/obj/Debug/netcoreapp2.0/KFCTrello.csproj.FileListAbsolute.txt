@@ -8,3 +8,14 @@ C:\Users\Маринка\RiderProjects\KFCTrello\KFCTrello\bin\Debug\netcoreapp2.
 C:\Users\Маринка\RiderProjects\KFCTrello\KFCTrello\bin\Debug\netcoreapp2.0\KFCTrello.pdb
 C:\Users\Маринка\RiderProjects\KFCTrello\KFCTrello\obj\Debug\netcoreapp2.0\KFCTrello.dll
 C:\Users\Маринка\RiderProjects\KFCTrello\KFCTrello\obj\Debug\netcoreapp2.0\KFCTrello.pdb
+B:\GIT\MyProjects\KFC-Trello\KFCTrello\bin\Debug\netcoreapp2.0\KFCTrello.deps.json
+B:\GIT\MyProjects\KFC-Trello\KFCTrello\bin\Debug\netcoreapp2.0\KFCTrello.runtimeconfig.json
+B:\GIT\MyProjects\KFC-Trello\KFCTrello\bin\Debug\netcoreapp2.0\KFCTrello.runtimeconfig.dev.json
+B:\GIT\MyProjects\KFC-Trello\KFCTrello\bin\Debug\netcoreapp2.0\KFCTrello.dll
+B:\GIT\MyProjects\KFC-Trello\KFCTrello\bin\Debug\netcoreapp2.0\KFCTrello.pdb
+B:\GIT\MyProjects\KFC-Trello\KFCTrello\obj\Debug\netcoreapp2.0\KFCTrello.csprojResolveAssemblyReference.cache
+B:\GIT\MyProjects\KFC-Trello\KFCTrello\obj\Debug\netcoreapp2.0\KFCTrello.csproj.CoreCompileInputs.cache
+B:\GIT\MyProjects\KFC-Trello\KFCTrello\obj\Debug\netcoreapp2.0\KFCTrello.AssemblyInfoInputs.cache
+B:\GIT\MyProjects\KFC-Trello\KFCTrello\obj\Debug\netcoreapp2.0\KFCTrello.AssemblyInfo.cs
+B:\GIT\MyProjects\KFC-Trello\KFCTrello\obj\Debug\netcoreapp2.0\KFCTrello.dll
+B:\GIT\MyProjects\KFC-Trello\KFCTrello\obj\Debug\netcoreapp2.0\KFCTrello.pdb
